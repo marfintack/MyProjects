@@ -1,0 +1,142 @@
+ul.sf-menu > li.sfHover.parent > a,
+ul.sf-menu > li.sfHover.parent > span,
+ul.sf-menu > li.parent > a:hover,
+ul.sf-menu > li.parent > span:hover {border-top:3px solid #FB5757;}
+.sf-menu > li > a:hover, .sf-menu > li.sfHover > a, .sf-menu > li.sfHover > span, .sf-menu > li:hover > span{border-top: 3px solid #FB5757;}
+.sf-menu > li > a:active, .sf-menu > li.current > a, .sf-menu > li.current > span, .sf-menu > li.active > a, .sf-menu > li.active > span{border-bottom: 3px solid #FB5757;}
+.map-wrapper{border-top: 6px solid #f1c40f;  }
+.form-wrap{background:#F1C40F;
+    top: 10px;
+    left: 26px;
+}
+h2{color:#2C3E50;}
+h4{color:#2C3E50;}
+.form-wrap h2{color:#000000;}
+.control-form{ color:#2C3E50 !important; } 
+.call-us2{color:#ffffff !important;}
+.call-us2 span{color:#ffffff !important;border: 1px solid #ffffff;}
+.dropdown-icon5 .bootstrap-select button.dropdown-toggle .filter-option { color:#ffffff; } 
+.dropdown-icon5 .bootstrap-select button.dropdown-toggle .pull-left { color:red !important; } 
+.resister-social .login-register a{color:#2c3e50;border-right:1px solid #2c3e50;}
+.resister-social .login a{color:#ffffff !important;border-right:1px solid #ffffff !important;}
+.resister-social .social-icon a{color:#2c3e50;border: 1px solid #2c3e50;}
+.resister-social .social-icon2 a{color:#ffffff !important;border: 1px solid #ffffff !important;}
+.language-color {color:#ffffff !important; }
+.anytime-wrap h1{color:#333333;}
+.anytime-wrap p{color:#464645;}
+.containt-text h3{color:#1D1D1D !important;}
+.containt-text span{color:#F1C40F;}
+.containt-text p{color:#808080;}
+.slider-text1 h4{color:#ffffff;}
+.slider-text1 p{color:#ffffff;}
+.menu-item ul li a{color:#9BA6B0;}
+.menu-item ul li a:hover{color:#F1C40F;} 
+.social-item a{ color: #9BA6B0;border: 1px solid #9BA6B0;}
+.social-item a:hover{ color: #ffffff;border: 1px solid #F1C40F;background:#F1C40F; transition: all 200ms ease-in; -webkit-transition: all 200ms ease-in;
+-o-transition: all 200ms ease-in;
+-moz-transition: all 200ms ease-in;}
+.containt-font a{ color: #2B3D4F;border: 1px solid #2B3D4F;}
+.label-item:hover .containt-font a{background:#F1C40F;} 
+.minicar-promo-text-btnwrap2 .page26-button-wrap .minicar-promo-text-btn2:hover{color:#ffffff;}
+.car-btn{background:#2C3E50;color:#F1C40F;}
+.car-btn:hover{background:#2C3E50;color:#F1C40F;}
+.car-type h5{color:#000000;}
+.control-form4{color:#2C3E50}
+.car-type:hover{background:#F1C40F;}
+.destination h2{color:#2C3E50;}
+.destination p{color:#2C3E50;}
+.slider-hover-content2 h4{color:#ffffff;}
+.copy-right span{color:#9BA6B0;} 
+.copy-right p{color:#9BA6B0;}
+.form-btn:hover{color:#ffffff !important;}
+.form-btn{color:#F1C40F !important;background:#2C3E50;-webkit-transition: all 400ms ease-in;
+-o-transition: all 400ms ease-in;
+-moz-transition: all 400ms ease-in;
+    height: 49px;
+}
+.minicar-promo-text-btnwrap2 .page26-button-wrap .minicar-promo-text-btn2{color:#2C3E50;}
+.p18minicar-btn{color:#2C3E50;}
+.p18minicar-btn:hover{color:#ffffff;}
+.slide-btn:hover{color:#ffffff; background:#E5B909;}
+.slide-btn{background:#F1C40F;color:#000000;}
+.slider-text{background: #2C3E50;}
+.label-white{background:#ffffff;} 
+.yellow-label-wrapper2{background:#F1C40F;}
+.counter{color:#333333;}
+.happy-custon h5{color:#333333;}
+/* .yellow-label-wrapper{ background:#F1C40F;} */
+.menu-header p{color:#F1C40F;} 
+.containt-text-man a{ color: #2B3D4F;border: 1px solid #2B3D4F;}
+.containt-text-profile a{ color: #2B3D4F;border: 1px solid #2B3D4F;}
+.containt-text-man2 a{ color: #2B3D4F;border: 1px solid #2B3D4F;}
+.containt-text-bag2 a{ color: #2B3D4F;border: 1px solid #2B3D4F;}
+.clipart a{color:#2C3E50;}
+.clipart2 a{color:#2C3E50;}
+.clipart22 a{color:#2C3E50;}
+.clipart3 a{color:#2C3E50;}
+.clipart33 a{color:#2C3E50;}
+.bootstrap-select .dropdown-menu ul li a{ font-size:16px;font-family:Trebuchet MS;color:#2C3E50;} 
+.item-details-man3 a{color: #F1C40F;border: 1px solid #F1C40F;}
+.item-details-bag3 a{color: #F1C40F;border: 1px solid #F1C40F;} 
+.form-control:focus {border-color: #F1C40F;outline: 0;-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(246, 247, 14, 0.6);box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(246, 247, 14, 0.6);}
+.car-type.active{ background:#F1C40F !important;}
+.containt-font a.active{background:#F1C40F;}
+.contact-details-wrap-footer{background:#F1C40F; }
+.contact-details-wrap-footer span{color:#2C3E50;}
+.Private-Car span{color: #2C3E50; }
+.Car-Type span{color: #2C3E50; }
+.contact-details-wrap-bottom{background:#ffffff;}
+.contact-details-wrap-middle{background:#2C3E50;}
+.contact-details-wrap-top{background:#F1C40F; }
+.booking h5{color:#F1C40F;}
+.booking h3{color:#3A4B5C;}
+.third-form-wrap span{color:red;}
+.add-text h2{color:#ffffff;} 
+.Transfer h3{color:#3A4B5C;}
+.Transfer h5{color:#F1C40F;}
+.control-label2{color:#808080;}
+.Roundtrip-Fare{background: #F1C40F;}
+.service-wrap2 span{color: #2C3E50; }
+.service-wrap1 span{color: #2C3E50;}
+.item-details-wrap-container2{background:#2C3E50;}
+.item-details-content{background:#F1C40F;}
+.minicar-promo-text-btnwrap2{background:#2C3E50;}
+.minicar-promo-text-btn2{background:#F1C40F;}
+.minicar-promo-carwrap2{background:#F1C40F;}
+.minicar-promo-text-btn{background:#F1C40F;-webkit-transition: all 300ms ease-in;
+-o-transition: all 300ms ease-in;
+-moz-transition: all 300ms ease-in;
+color:#2C3E50;
+}
+.minicar-promo-text-btn:hover{color:#ffffff;}
+.minicar-promo-text-btnwrap{background:#2C3E50;}
+.minicar-promo-carwrap{background:#F1C40F;}
+/* .social-item a:hover{} */
+.sixpage-call-us span{color:#ffffff !important;border: 1px solid #ffffff;}
+.sixpage-call-us p{color:#ffffff !important;}
+.sixpage-select-control{color:#ffffff !important;background:#333333;}
+.sixpage-login-register a{color:#ffffff !important;border-right: 1px solid #ffffff !important;}
+.resister-social .login-register a:last-child{border:none !important;}
+.sixpage-social-icon a{color:#ffffff !important;border:1px solid #ffffff !important;}
+.sixpage-anytime-text p{color:#ffffff;}
+.TRACK-YOUR-TAXI h2{color:#ffffff;}
+.label-yellow2 .container .row h4{color:#2C3E50;}
+.page28-minicar-promo-carwrap{background:#F1C40F;}
+.page28-clipart a{color:#2C3E50;}
+.p18minicar-btn{background:#F1C40F;}
+.Proin-text-wrap h6{color:#2C3E50;}
+.Proin-text-wrap p{color:#2C3E50;}
+.pa25-btn{color:#F1C40F;background:#2C3E50;-webkit-transition: all 300ms ease-in;
+-o-transition: all 300ms ease-in;
+-moz-transition: all 300ms ease-in;}
+.pa25-btn:hover{color:#FFFFFF;background:#2C3E50;}
+.page25-clipart a {color: #2C3E50;}
+.featured-text h4{color:#2C3E50;}
+.featured-text span{color:#2C3E50;}
+/* .header-menu-wrap a:hover{color:#F1C40F;} */
+ 
+.dropdown-menu ul li:hover a{color:#ffffff !important;}
+.dropdown-menu ul li a {color:#1E1E1E;}
+.dropdown-menu ul li a:hover {background:#F1C40F !important;}
+.copy-right p a{color:#F1C40F;}
+

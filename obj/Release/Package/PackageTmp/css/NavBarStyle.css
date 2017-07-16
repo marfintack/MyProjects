@@ -1,0 +1,31 @@
+﻿#navbar{
+    
+	width:948px;
+	height:30px; 
+	/*background-color:black;*/
+	padding: 10px;
+	font-weight:bold;
+}
+#navbar ul   {  
+list-style-type: none; 
+text-align: left;
+margin-top:15px; 
+/*background-color: #000;*/ 
+} 
+
+#navbar ul  li  { 
+display: inline;
+} 
+
+#navbar ul li a { 	
+text-decoration: none; 
+font-family:Georgia;
+padding: .2em 3em; 
+color: #000; 
+/*background-color: #000;*/ 
+} 
+
+#navbar ul li a:hover { 
+color: #000; 
+background-color: #fff; 
+}
